@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10192" started-at="2020-07-20T14:54:44Z" finished-at="2020-07-20T14:54:54Z">
+  <suite name="Default suite" duration-ms="17432" started-at="2020-07-26T07:52:57Z" finished-at="2020-07-26T07:53:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10192" started-at="2020-07-20T14:54:44Z" finished-at="2020-07-20T14:54:54Z">
+    <test name="Default test" duration-ms="17432" started-at="2020-07-26T07:52:57Z" finished-at="2020-07-26T07:53:15Z">
       <class name="M2_Prjcts.Mvnn.ExtentReports_demo">
-        <test-method status="PASS" signature="config()[pri:0, instance:M2_Prjcts.Mvnn.ExtentReports_demo@4501b7af]" name="config" is-config="true" duration-ms="293" started-at="2020-07-20T20:24:44Z" finished-at="2020-07-20T20:24:44Z">
+        <test-method status="PASS" signature="config()[pri:0, instance:M2_Prjcts.Mvnn.ExtentReports_demo@4501b7af]" name="config" is-config="true" duration-ms="1092" started-at="2020-07-26T13:22:57Z" finished-at="2020-07-26T13:22:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- config -->
-        <test-method status="PASS" signature="ExtentDemo()[pri:0, instance:M2_Prjcts.Mvnn.ExtentReports_demo@4501b7af]" name="ExtentDemo" duration-ms="9869" started-at="2020-07-20T20:24:44Z" finished-at="2020-07-20T20:24:54Z">
+        <test-method status="PASS" signature="ExtentDemo()[pri:0, instance:M2_Prjcts.Mvnn.ExtentReports_demo@4501b7af]" name="ExtentDemo" duration-ms="16266" started-at="2020-07-26T13:22:58Z" finished-at="2020-07-26T13:23:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExtentDemo -->
